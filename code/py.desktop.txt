@@ -1,7 +1,0 @@
-[Desktop Entry]
-Version= 1.0
-Icon= /home/mc9/Bilder/biene.png
-Name=py
-Exec=/usr/bin/env python3 /home/mc9/test2.py
-Terminal=true
-Type=Application
