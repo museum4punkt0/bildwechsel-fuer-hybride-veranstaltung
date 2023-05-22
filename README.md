@@ -23,6 +23,9 @@ Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregier
 
 Weitere Informationen: www.museum4punkt0.de
 
+![alt text](https://github.com/museum4punkt0/media_storage/blob/2c46af6cb625a2560f39b01ecb8c4c360733811c/BKM_Fz_2017_Web_de.gif) ![alt text](https://github.com/museum4punkt0/media_storage/blob/e87f37973c3d91e2762d74d51bed81de5026e06e/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
+
+
 # Installation
 ![Einrichten Computer](./img/picture2.png)
 
