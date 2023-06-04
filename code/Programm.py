@@ -11,12 +11,12 @@ pygame.init()
 scr = pygame.display.set_mode((1920, 1080), pygame.FULLSCREEN)
 
 # import files
-pic_1 = pygame.image.load("/img/bild1.jpg").convert()
-pic_2 = pygame.image.load("/img/bild2.jpg").convert()
+pic_1 = pygame.image.load("../img/bild1.jpg").convert()
+pic_2 = pygame.image.load("../img/bild2.jpg").convert()
 
-cou_1 = pygame.image.load("/img/1.jpg").convert()
-cou_2 = pygame.image.load("/img/2.jpg").convert()
-cou_3 = pygame.image.load("/img/3.jpg").convert()
+cou_1 = pygame.image.load("../img/1.jpg").convert()
+cou_2 = pygame.image.load("../img/2.jpg").convert()
+cou_3 = pygame.image.load("../img/3.jpg").convert()
 
 # creating a running loop
 while True:
