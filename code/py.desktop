@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version= 1.0
-Icon= /home/mc9/Bilder/biene.png
+Icon= /home/bildwechsel-fuer-hybride-veranstaltung/img/logo_m4p0.jpg
 Name=py
-Exec=/usr/bin/env python3 /home/mc9/test2.py
+Exec=/usr/bin/env python3 /home/bildwechsel-fuer-hybride-veranstaltung/code/Programm.py
 Terminal=true
 Type=Application
