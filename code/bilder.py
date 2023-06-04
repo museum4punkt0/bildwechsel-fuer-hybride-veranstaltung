@@ -16,7 +16,7 @@ pic_2 = pygame.image.load("bild2.jpg").convert()
 
 cou_1 = pygame.image.load("1.jpg").convert()
 cou_2 = pygame.image.load("2.jpg").convert()
-cou_3 = pygame.image.load("2.jpg").convert()
+cou_3 = pygame.image.load("3.jpg").convert()
 
 # creating a running loop
 while True:
