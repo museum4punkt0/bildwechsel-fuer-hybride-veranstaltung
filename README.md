@@ -31,7 +31,7 @@ Weitere Informationen: www.museum4punkt0.de
 - [./code/Keybord_USB.ino](./code/Keybord_USB.ino)
 
 ## Phyton 
-- [./code/bilder.py](./code/bilder.py)
+- [./code/Programm.py](./code/Programm.py)
 - [./code/py.desktop](./code/py.desktop)
 
 # Credits
