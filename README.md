@@ -23,7 +23,7 @@ Weitere Informationen: www.museum4punkt0.de
 
 
 # Installation
-- [Anleitung](./img/Anleitung Setup.pdf) 
+- [Anleitung] (./img/Anleitung Setup.pdf) 
 
 # Benutzung
 
