@@ -23,7 +23,7 @@ Weitere Informationen: www.museum4punkt0.de
 
 
 # Installation
-- [Einrichten Computer](./img/Einrichten_Computer_Bildwechsel.pdf)
+- [Anleitung](./img/Anleitung Setup.pdf) 
 
 # Benutzung
 
